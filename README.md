@@ -1,6 +1,7 @@
 # MonitoringRansomware
 Projeto realizado com fins totalmente acadêmicos, para monitoração, análise e detecção de ataques Ransomware em sistemas linux.
 Defendido em TCC para conclusão do curso de Engenharia de Computação pela UFPA, apresentado no Simpósio Brasileiro De Segurança Da Informação E De Sistemas Computacionais (SBSEG) e publicado na Biblioteca Digital da SBC (SBC OpenLib – SOL).
+DOI: https://doi.org/10.5753/sbseg_estendido.2020.19286
 
 
 Sobre os códigos:
